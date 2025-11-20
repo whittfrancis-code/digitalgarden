@@ -3,7 +3,6 @@
 ---
 
 
-
 [HVC]
 
 This is my personal [[Digital Garden Notes/Digital Garden\|Digital Garden]] - a place where I yap about the things I like/dislike, and try to keep it organized.
@@ -27,11 +26,11 @@ Nothing really.  On the left side nav there should be different folders for "Not
 # Hey, I think this is kinda neat.  How do I make one? 
 &nbsp;
 
-Refer to the following link [[Digital Garden Notes/HOW TO MAKE A DIGITAL GARDEN\|HOW TO MAKE A DIGITAL GARDEN]] - this should take you to my notes on how to make one.  This is how I made this, so obviously your mileage may vary, so make sure to use Google, refer to the official Obsidian [[Digital Garden Notes/Discord\|Discord]], ask Claude etc etc.  
+Refer to the following link [[HOW TO MAKE A DIGITAL GARDEN\|HOW TO MAKE A DIGITAL GARDEN]] - this should take you to my notes on how to make one.  This is how I made this, so obviously your mileage may vary, so make sure to use Google, refer to the official Obsidian [[Digital Garden Notes/Discord\|Discord]], ask Claude etc etc.  
 
 &nbsp;
 # About me
 &nbsp;
 
-I'm a 34 year old Senior BA with a focus on QA Testing & Project Management.  In my spare time, I am massive nerd who spends way too much time I don't have playing MMOs, Fighting Games, and CRPG's.  I'm huge into japanese fashion, and have a concerning growing collection of records (mostly jazz/90's hip-hop/house/weird field recordings).  I like to rock climb when I am not battling self loathing, and have way too much general knowledge on the random hyper fixations I have that rotate monthly.  My current hyper fixation is on Star Citizen and its never ending amount of tech debt.  As of right now, I am currently <s> unemployed and have been fighting the true end game boss that is LinkedIn </s> fighting the true end game boss that is financial services.  I have a wife and a dog.  I love the both of them dearly.  
+I'm a 34 year old Senior BA with a focus on QA Testing & Project Management.  In my spare time, I am massive nerd who spends way too much time I don't have playing MMOs, Fighting Games, and CRPG/JRPG's.  I'm huge into japanese fashion, and have a concerning growing collection of records (mostly jazz/90's hip-hop/house/weird field recordings).  I like to rock climb when I am not battling self loathing, and have way too much general knowledge on the random hyper fixations I have that rotate monthly.  My current hyper fixation is on Umamusume and its probably going to one shot a bunch of people and get them into horse racing.  As of right now, I am currently <s> unemployed and have been fighting the true end game boss that is LinkedIn </s> fighting the true end game boss that is financial services.  I have a wife and a dog.  I love the both of them dearly.  
 
