@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/how-to-make-a-digital-garden/"}
 ---
 
-
+&nbsp;
 
 There's a million different ways you can go about this, but this is what worked best for my use case
 
