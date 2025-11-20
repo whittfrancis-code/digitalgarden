@@ -8,9 +8,9 @@
 
 This is my personal [[Digital Garden Notes/Digital Garden\|Digital Garden]] - a place where I yap about the things I like/dislike, and try to keep it organized.
 
-
-
 ## Brother, why did you make this when Twitter/Tumblr is a thing?
+
+
 
 The older I have gotten, the more I've realized that I hate the modern Internet.  I grew up in the era of forums and blogs, these tiny little spaces carved out on the Internet for incredibly niche interests (RIP SuFu/onRPG).  Social Media is great, and I doom scroll like everyone else, but having that tiny space carved out for myself is something I miss sorely.  It's also a great way to attempt to stay sharp with my technical skills while battling <s> unemployment (shoutouts to future Nikko if you land a job </s> the monstrosity that is banking.  
 
