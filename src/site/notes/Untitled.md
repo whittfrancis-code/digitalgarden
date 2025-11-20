@@ -1,10 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/untitled/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/untitled/"}
 ---
 
-
----
-dg-home: true 
-dg-publish: true
-
----
